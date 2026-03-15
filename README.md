@@ -65,7 +65,8 @@ This project uses the **Online Retail Dataset**, containing real-world transacti
 
 
 #  ETL Pipeline Result
-
+![Project Preview](/dashboard1.png)
+![Project Preview](/dashboard2.png)
 
 ![Project Preview](/Output.png)
 
